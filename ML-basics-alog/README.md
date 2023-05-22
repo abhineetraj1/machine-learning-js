@@ -3,6 +3,7 @@ Normal machine learning algorithms and functions created in Javascript
 
  ## Content
 | S. No. | Index | Code |
+| --- |:----------: | --- |
 | 1 | Backpropagation | [Code](Backpropagation.js) |
 | 2 | Learning | [Code](learning.js) |
 | 3 | Recognition | [Code](recognition.js) |
