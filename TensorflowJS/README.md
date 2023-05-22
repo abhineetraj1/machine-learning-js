@@ -3,6 +3,7 @@ These are few solved exercises based on regressions and clustering in tensorflow
 
 ## Content
 | S.No. | Index | code |
+| --- |:----------: | --- |
 | 1 | Regressions | [code](https://github.com/abhineetraj1/machine-learning-js/TensorflowJS/Regressions.js) |
 | 2 | Kmeans | [code](https://github.com/abhineetraj1/machine-learning-js/TensorflowJS/Kmeans.js) |
 | 3 | Density based Scan | [code](https://github.com/abhineetraj1/machine-learning-js/TensorflowJS/Density-basedScan.js) |
