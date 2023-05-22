@@ -5,6 +5,7 @@ These are few libraries through which graphical representation of data is render
 ## Content
 
 | S.No. | Index |
+| --- |:----------: |
 | 1 | [Canvas](/Canvas) |
 | 2 | [Plotly](/PlotlyJS) |
 
