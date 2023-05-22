@@ -4,6 +4,7 @@ These are somr practised exercised of representing data into graphical form.
 ## Content
 
 | S.No. | Graph type | Code) |
+| --- |:----------: | --- |
 | 1 | Donut Graph | [code](donut.js) |
 | 2 | Equation Graph | [code](equation.js) |
 | 3 | Horizontal bar | [code](horizontal-bar.js) |
