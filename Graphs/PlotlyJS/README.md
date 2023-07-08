@@ -1,5 +1,5 @@
 # PlotlyJS
-These are somr practised exercised of representing data into graphical form.
+These are some practised exercised of representing data into graphical form using PlotlyJS.
 
 ## Content
 
